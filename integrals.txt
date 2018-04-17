@@ -1,0 +1,6 @@
+| 3x^2 + 2x + 1 dx
+1|4 x^-2 +3x+4 dx
+-2|2 x^3 -4x dx
+| sin x + cos x dx
+| 1 - cos 4x dx
+| 3x^4 - 6x^2 + 2sin 10x dx
